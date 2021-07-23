@@ -1,4 +1,4 @@
-## Olá, meu nome é Lucas! [![img { width: 100px; }](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+## Olá, meu nome é Lucas!👋👋👋👋👋👋👋
 
 ### Sobre mim
 

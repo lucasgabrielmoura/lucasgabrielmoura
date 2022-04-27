@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 👨‍💻 Estudando atualmente Front-End, e cursando Analise e Desenvolvimento de Sistemas.
+- 👨‍💻 Estudando atualmente Full-Stack, e cursando Analise e Desenvolvimento de Sistemas.
 - 🎯 Acesse meu <a href="https://www.linkedin.com/in/lucas-gabriel-baa800212">Linkedin</a>, e em publicações estarão meus projetos!
 
 <p>
